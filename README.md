@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Patrick Santoso Lay</h1>
-<h3 align="center">Fourth year Toronto Met U Student</h3>
+<h1 align="center">Hi 👋, I'm Patrick Lay</h1>
+<h3 align="center">Toronto Metropolitan University Graduate</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=patrickz3&label=Profile%20views&color=0e75b6&style=flat" alt="patrickz3" /> </p>
 
